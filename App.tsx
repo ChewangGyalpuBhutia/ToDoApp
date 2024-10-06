@@ -316,8 +316,8 @@ const styles = StyleSheet.create({
     marginRight: 15,
   },
   checkbox: {
-    width: 24,
-    height: 24,
+    width: 18,
+    height: 18,
     borderRadius: 12,
     borderWidth: 2,
     borderColor: '#4158D0',
@@ -329,7 +329,7 @@ const styles = StyleSheet.create({
   },
   checkmark: {
     color: '#fff',
-    fontSize: 16,
+    fontSize: 10,
     fontWeight: 'bold',
   },
   taskText: {
